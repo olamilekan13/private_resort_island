@@ -1,0 +1,36 @@
+#header
+{
+    background-color: brown;
+    color: rgb(50, 46, 107);
+    text-align: center;
+    padding: 5px;
+}
+#nav {
+    line-height: 30px;
+    background-color: blue;
+    color: whitesmoke;
+    height: 700px;
+    width: 110px;
+    float: left;
+    padding: 5px;
+}
+
+#section
+{
+    width: 350px;
+    float: left;
+    padding: 10px;
+}
+#footer
+{
+    background-color: rgb(79, 24, 219);
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
+a
+{
+    color: rgb(184, 37, 11);
+}
